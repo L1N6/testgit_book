@@ -23,4 +23,4 @@
 
 ## Group 1
 
-* [Page 1](../README.md/group-1/page-1.md)
+* [Page 1](frequently-asked-questions-faq/page-1.md)

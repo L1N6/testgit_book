@@ -21,6 +21,6 @@
 * [Customize Menu Section](../README.md/user-interface/customize-menu-and-page-section.md)
 * [Customize Page Section](../README.md/user-interface/page.md)
 
-## Group 1
+## Frequently Asked Questions (FAQ)
 
-* [Page 1](../README.md/group-1/page-1.md)
+* [Limitations](frequently-asked-questions-faq/page-1.md)
