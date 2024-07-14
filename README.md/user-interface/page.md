@@ -31,7 +31,7 @@ Those tabs
 
 4.  Form Detail
 
-    <figure><img src="../../README/.gitbook/assets/image (1).png" alt=""><figcaption><p>Page - Form</p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Page - Form</p></figcaption></figure>
 
 * <mark style="color:blue;">**Name (string):**</mark> A field to specify the name of the attribute. Example: Account
 *   <mark style="color:blue;">**Data field:**</mark> A field to designate the variable will contains data of that form name. Example Data Field had value = account, when u fill the form and send the request u will send <mark style="color:orange;">{"account":"value"}</mark> with json format.
@@ -40,22 +40,22 @@ Those tabs
 * <mark style="color:blue;">**Placeholder:**</mark> A field to enter placeholder text, which will appear inside the input field when it is empty.
 *   <mark style="color:blue;">**Permission:**</mark> A section to set permissions for the attribute, with an option to add more permissions.
 
-    <figure><img src="../../README/.gitbook/assets/image (2).png" alt=""><figcaption><p> <mark style="color:yellow;"><strong>After Clicking "+" button</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (2) (1).png" alt=""><figcaption><p> <mark style="color:yellow;"><strong>After Clicking "+" button</strong></mark></p></figcaption></figure>
 * <mark style="color:blue;">**Required field:**</mark> A checkbox to indicate if the field is mandatory. It mean that must be fill, not empty after sending it.
 * <mark style="color:blue;">**Required Expression:**</mark> A field to define conditions under which the field becomes mandatory.
 * <mark style="color:blue;">**Disable:**</mark> A checkbox to disable the field.
 * <mark style="color:blue;">**Disable condition:**</mark> A field to specify conditions under which the field is disabled.
 *   <mark style="color:blue;">**Data type:**</mark> A dropdown menu to select the type of data for the field (e.g., text, number).
 
-    <figure><img src="../../README/.gitbook/assets/image (3).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample</strong></mark></p></figcaption></figure>
 *   <mark style="color:blue;">**Ui type:**</mark> A dropdown menu to select the type of user interface for the field (e.g., textbox, dropdown).
 
-    <figure><img src="../../README/.gitbook/assets/image (4).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (4) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample</strong></mark></p></figcaption></figure>
 *   <mark style="color:blue;">**Array input:**</mark> If you want to input an array and send it to backend. Click that and put your button name below.
 
-    <figure><img src="../../README/.gitbook/assets/image (6).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (6) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample</strong></mark></p></figcaption></figure>
 
-    <figure><img src="../../README/.gitbook/assets/image (7).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>After Using</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (7) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>After Using</strong></mark></p></figcaption></figure>
 
 
 * <mark style="color:blue;">**REGEX (REGEX FLAG):**</mark> Regex is a pattern (or filter) that describes a set of strings that matches the pattern. Example: <mark style="color:orange;">**"^a-zA-Z0-9+\[a-zA-Z0-9]$"**</mark>
@@ -65,36 +65,36 @@ Those tabs
 
 5.  Button Detail
 
-    <figure><img src="../../README/.gitbook/assets/image (8).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Picture - 1</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (8) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Picture - 1</strong></mark></p></figcaption></figure>
 
-    <figure><img src="../../README/.gitbook/assets/image (11).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Picture - 2</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (11) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Picture - 2</strong></mark></p></figcaption></figure>
 
 * <mark style="color:blue;">**Mode:**</mark> A field to specify the mode or state of the button.
 * <mark style="color:blue;">**Name:**</mark> A field to input the name of the button.
 *   <mark style="color:blue;">**Permission:**</mark> A section to set permissions for the button, with an option to add more permissions.
 
-    <figure><img src="../../README/.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 *   <mark style="color:blue;">**Color:**</mark> A field to specify the color of the button.
 
-    <figure><img src="../../README/.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 * <mark style="color:blue;">**Outline:**</mark> A checkbox to determine if the button should have an outline.
 *   <mark style="color:blue;">**Icon:**</mark> A field to add an icon to the button. You can get icon in [FontAwsome](https://fontawesome.com/).
 
-    <figure><img src="../../README/.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 * <mark style="color:blue;">**Show on column:**</mark> A checkbox to specify if the button should be displayed in a column.
 * <mark style="color:blue;">**Hidden condition:**</mark> A field to define conditions under which the button is hidden.
 *   <mark style="color:blue;">**After click:**</mark> A field to specify what happens after the button is clicked. Options can include calling an API, redirecting the view, showing a pop-up, etc. Each type of acting will have some related fields. Ex: When u want to call a function after clicking, you choose calling function and select the function (that function is the api of your page) .
 
-    <figure><img src="../../README/.gitbook/assets/image (15).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample 1</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (15) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample 1</strong></mark></p></figcaption></figure>
 
-    <figure><img src="../../README/.gitbook/assets/image (16).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample 2</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (16) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample 2</strong></mark></p></figcaption></figure>
 
-    <figure><img src="../../README/.gitbook/assets/image (20).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample 3</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (20) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample 3</strong></mark></p></figcaption></figure>
 * <mark style="color:blue;">**Embeded Value:**</mark>
 * <mark style="color:blue;">**Confirm:**</mark> A checkbox to enable a confirmation step before the button's action is performed.
 *   <mark style="color:blue;">**Run back after submit:**</mark> A checkbox to determine if the user should be redirected back after the form is submitted. You can choose the link after click that button.
 
-    <figure><img src="../../README/.gitbook/assets/image (21).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (21) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample</strong></mark></p></figcaption></figure>
 * <mark style="color:blue;">**URL embedding:**</mark> A field to specify if URL embedding is needed.
 * <mark style="color:blue;">**Button Type:**</mark> A dropdown menu to select the type of button (e.g., submit, reset).
 * <mark style="color:blue;">**Show on top:**</mark> A checkbox to indicate if the button should be displayed at the top of the form.
