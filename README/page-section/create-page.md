@@ -10,13 +10,13 @@
 
     <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:blue;">**Tên Trang (Name):**</mark> Page's name.
-* <mark style="color:blue;">**Mô tả (Description):**</mark> Page's description.
-*   <mark style="color:blue;">**Hàm tải dữ liệu (Load data function):**</mark> Contains APIs you create to show data when you click on the page.(Displayed when u completed create api).&#x20;
+* <mark style="color:blue;">**Tên Trang (**</mark><mark style="color:orange;">**"Name"**</mark><mark style="color:blue;">**):**</mark> Page's name.
+* <mark style="color:blue;">**Mô tả (**</mark><mark style="color:orange;">**"Description"**</mark><mark style="color:blue;">**):**</mark> Page's description.
+*   <mark style="color:blue;">**Hàm tải dữ liệu (**</mark><mark style="color:orange;">**"Load data function"**</mark><mark style="color:blue;">**):**</mark> Contains APIs you create to show data when you click on the page.(Displayed when u completed create api).&#x20;
 
     <figure><img src="../../README.md/.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
-* <mark style="color:blue;">**Ngôn Ngữ (Language):**</mark> You can choose the language of page.
-* <mark style="color:blue;">**Phân Quyền (Permission):**</mark> You can define who can use that page.
+* <mark style="color:blue;">**Ngôn Ngữ (**</mark><mark style="color:orange;">**"Language"**</mark><mark style="color:blue;">**):**</mark> You can choose the language of page.
+* <mark style="color:blue;">**Phân Quyền (**</mark><mark style="color:orange;">**"Permission"**</mark><mark style="color:blue;">**):**</mark> You can define who can use that page.
 
 &#x20; And 4 tabs with 4 feature:
 

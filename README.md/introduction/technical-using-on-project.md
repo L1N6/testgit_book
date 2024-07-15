@@ -4,13 +4,11 @@ description: We use Javascript Technology Only
 
 # Technical Using On Project
 
-### Our Admin Page Builder is built entirely in JavaScript, using Sails.js for the backend and React.js for the frontend. It supports both MySQL and MongoDB databases.
+### Our Admin Page Builder is built entirely in JavaScript, using Sails.js for the backend and Next.js for the frontend. It supports both MySQL and MongoDB databases.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>React Js</p></figcaption></figure>
+<figure><img src="../../README/.gitbook/assets/httpswww.npmjs.compackagenext" alt="https://www.npmjs.com/package/next?activeTab=readme"><figcaption></figcaption></figure>
 
-{% embed url="https://www.npmjs.com/package/react" %}
-
-[WEBSITE](https://legacy.reactjs.org/) and [DOCUMENTATION](https://legacy.reactjs.org/docs/getting-started.html)
+[WEBSITE](https://nextjs.org/) and [DOCUMENTATION](https://nextjs.org/docs)
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Sails Js</p></figcaption></figure>
 
@@ -25,3 +23,5 @@ Sails.js is a [web framework](http://sailsjs.com/whats-that) that makes it easy 
 The ORM, [Waterline](https://github.com/balderdashy/waterline), has a well-defined adapter system for supporting all kinds of datastores. Officially supported databases include [MySQL](https://npmjs.com/package/sails-mysql) and [MongoDB](https://npmjs.com/package/sails-mongo).
 
 [![Powered by MySQL](https://camo.githubusercontent.com/3dead262a6aa5ffcecccd8df290892839eb36d8436a509139b451eea5e17efce/687474703a2f2f7777772e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f706f77657265642d62792d6d7973716c2d3132357836342e706e67) ](http://www.mysql.com/)    [![](https://camo.githubusercontent.com/15369bcb07d432093f300a85f3fff61e9a3ca2fd3ade5e7bf7d42a8a0dcc877b/687474703a2f2f692e696d6775722e636f6d2f6243326a31337a2e706e67)](http://www.mongodb.org/)      &#x20;
+
+<mark style="color:yellow;">**NOTE: Database must using native password of MQL.**</mark> You can read more in [here](https://dba.stackexchange.com/questions/209514/what-is-mysql-native-password).
