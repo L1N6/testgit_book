@@ -39,12 +39,12 @@ description: Step by step to create Page Grid
 *   <mark style="color:blue;">**Database chosen list:**</mark>
 
     <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
-* <mark style="color:blue;">**Display:**</mark> A field to define how the data should be displayed in the grid (e.g., image, progressbar).
+*   <mark style="color:blue;">**Display:**</mark> A field to define how the data should be displayed in the grid (e.g., image, progressbar).
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 *   <mark style="color:blue;">**Enable filtering:**</mark> A checkbox to enable filtering options for the grid data. You can defind the type of filter.
 
-    <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Non Filter</strong></mark></p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Disable Filter</strong></mark></p></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Filter</strong></mark></p></figcaption></figure>
-
-    <figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Filter Sample</strong></mark></p></figcaption></figure>
-* <mark style="color:blue;">**Nút bấm thay thế ("Replacement button"):**</mark>
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Enable Filter</strong></mark></p></figcaption></figure>
+* <mark style="color:blue;">**Nút bấm thay thế ("Replacement button"):**</mark> This data field is related to some more difficult operations, see more in  [<mark style="color:yellow;">Button Operations</mark>](others.md).

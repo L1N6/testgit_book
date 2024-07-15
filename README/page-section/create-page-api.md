@@ -6,7 +6,7 @@ description: Step by step to create Page Api
 
 1.  Click on Api
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 2. API Detail
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
@@ -28,10 +28,10 @@ description: Step by step to create Page Api
     <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 *   <mark style="color:blue;">**Tuỳ chọn gửi lên \[Upload options(update data)]:**</mark> This fields only use for <mark style="color:orange;">**POST**</mark> method. That provide Key-Value for helping to send more variable of Json. Example: You want to add some variable to Json before sending to Back-End. If your key-value is <mark style="color:orange;">**"name"**</mark>-<mark style="color:orange;">**"newValue"**</mark> it is similar to <mark style="color:orange;">**{"name":"newValue"}**</mark>**.**
 
-    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p><mark style="color:yellow;">Explain feature</mark></p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p><mark style="color:yellow;">Explain feature</mark></p></figcaption></figure>
 *   <mark style="color:blue;">**Tuỳ chọn cập nhật ("Update options(where)"):**</mark> This fields provide Key-Value for helping to add more where conditions on path <mark style="color:orange;">**InputQuery**</mark> with syntax like <mark style="color:orange;">**"criterias":\[{"key":"id","value":"--id"}]**</mark>
 
-    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p><mark style="color:yellow;">Explain feature</mark></p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p><mark style="color:yellow;">Explain feature</mark></p></figcaption></figure>
 * <mark style="color:blue;">**Dữ liệu gửi lên ("Request Fields"):**</mark> You can input the fields you want sending to Api.&#x20;
 * <mark style="color:blue;">**Dữ liệu Hạn chế gửi lên \["Retrict data upload(retrict field)"]:**</mark> A field to define restrictions on which data fields can be uploaded. Your backend return a lot of fields but some fields you  don't want to show because of authentication. Example: You response a Json Object:\
   `{` \
@@ -43,7 +43,7 @@ description: Step by step to create Page Api
 
 And you don't want to show the password you can input the passwod to ignore it.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   <mark style="color:blue;">**Dữ liệu trả về ("Response Fields"):**</mark> You can define the fields you want returned.
 
@@ -54,4 +54,4 @@ And you don't want to show the password you can input the passwod to ignore it.
 
 <mark style="color:purple;">**Finish:**</mark> If you completed to create an Api. The new api will show on <mark style="color:orange;">**"Hàm tải dữ liệu"**</mark>.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>After completed creating new</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>After completed creating new</p></figcaption></figure>

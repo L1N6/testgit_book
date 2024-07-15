@@ -31,7 +31,7 @@ Those tabs
 
 4.  Form Detail
 
-    <figure><img src="../../README/.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Page - Form</p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Page - Form</p></figcaption></figure>
 
 * <mark style="color:blue;">**Name (string):**</mark> A field to specify the name of the attribute. Example: Account
 *   <mark style="color:blue;">**Data field:**</mark> A field to designate the variable will contains data of that form name. Example Data Field had value = account, when u fill the form and send the request u will send <mark style="color:orange;">{"account":"value"}</mark> with json format.
@@ -40,22 +40,22 @@ Those tabs
 * <mark style="color:blue;">**Placeholder:**</mark> A field to enter placeholder text, which will appear inside the input field when it is empty.
 *   <mark style="color:blue;">**Permission:**</mark> A section to set permissions for the attribute, with an option to add more permissions.
 
-    <figure><img src="../../README/.gitbook/assets/image (2) (1).png" alt=""><figcaption><p> <mark style="color:yellow;"><strong>After Clicking "+" button</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p> <mark style="color:yellow;"><strong>After Clicking "+" button</strong></mark></p></figcaption></figure>
 * <mark style="color:blue;">**Required field:**</mark> A checkbox to indicate if the field is mandatory. It mean that must be fill, not empty after sending it.
 * <mark style="color:blue;">**Required Expression:**</mark> A field to define conditions under which the field becomes mandatory.
 * <mark style="color:blue;">**Disable:**</mark> A checkbox to disable the field.
 * <mark style="color:blue;">**Disable condition:**</mark> A field to specify conditions under which the field is disabled.
 *   <mark style="color:blue;">**Data type:**</mark> A dropdown menu to select the type of data for the field (e.g., text, number).
 
-    <figure><img src="../../README/.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample</strong></mark></p></figcaption></figure>
 *   <mark style="color:blue;">**Ui type:**</mark> A dropdown menu to select the type of user interface for the field (e.g., textbox, dropdown).
 
-    <figure><img src="../../README/.gitbook/assets/image (4) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample</strong></mark></p></figcaption></figure>
 *   <mark style="color:blue;">**Array input:**</mark> If you want to input an array and send it to backend. Click that and put your button name below.
 
-    <figure><img src="../../README/.gitbook/assets/image (6) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Sample</strong></mark></p></figcaption></figure>
 
-    <figure><img src="../../README/.gitbook/assets/image (7) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>After Using</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>After Using</strong></mark></p></figcaption></figure>
 
 
 * <mark style="color:blue;">**REGEX (REGEX FLAG):**</mark> Regex is a pattern (or filter) that describes a set of strings that matches the pattern. Example: <mark style="color:orange;">**"^a-zA-Z0-9+\[a-zA-Z0-9]$"**</mark>
@@ -65,9 +65,9 @@ Those tabs
 
 5.  Button Detail
 
-    <figure><img src="../../README/.gitbook/assets/image (8) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Picture - 1</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Picture - 1</strong></mark></p></figcaption></figure>
 
-    <figure><img src="../../README/.gitbook/assets/image (11) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Picture - 2</strong></mark></p></figcaption></figure>
+    <figure><img src="../../README/.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Picture - 2</strong></mark></p></figcaption></figure>
 
 * <mark style="color:blue;">**Mode:**</mark> A field to specify the mode or state of the button.
 * <mark style="color:blue;">**Name:**</mark> A field to input the name of the button.
