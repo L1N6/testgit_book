@@ -15,12 +15,6 @@
 
 * [Architecture Overview](../README.md/core-concepts/architecture-overview.md)
 
-## User Interface
-
-* [Overview](../README.md/user-interface/overview.md)
-* [Customize Menu Section](../README.md/user-interface/customize-menu-and-page-section.md)
-* [Customize Page Section](../README.md/user-interface/page.md)
-
 ## Feature and Usage
 
 * [Overview](feature-and-usage/overview.md)

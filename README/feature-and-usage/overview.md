@@ -1,61 +1,37 @@
 # Overview
 
-1. Authentication:
+1. Login
 
-* Login or Login using Google Account
-* Register
-* Forgot Password
+<figure><img src="../../README.md/.gitbook/assets/image.png" alt=""><figcaption><p>Login Screen</p></figcaption></figure>
 
-2. Manage Menu:
+2. Home Page
 
-* Display Menu
-* Create Menu
-* Update Menu
-* Delete Menu
+<figure><img src="../../README.md/.gitbook/assets/image (1).png" alt=""><figcaption><p>Home Page Screen</p></figcaption></figure>
 
-3. Manage Page:
+3. Profile
 
-* Display Page
-* Create Page
-* Create Page Form
-* Create Page Button
-* Create Page Api
-* Create Page Grid
-* Update Page
-* Update Page Form
-* Update Page Button
-* Update Page Api
-* Update Page Grid
-* Delete Page
+<figure><img src="../../README.md/.gitbook/assets/image (2).png" alt=""><figcaption><p>Manage Profile Screen</p></figcaption></figure>
 
-2. Manage Api:
+4. Menu&#x20;
 
-* Display Api
-* Create Api
-* Update Api
-* Delete Api
+<figure><img src="../../README.md/.gitbook/assets/image (3).png" alt=""><figcaption><p>Manage Menu Screen</p></figcaption></figure>
 
-2. Manage User:
+5. Page
 
-* Display User
-* Display User Own Account
-* Change Others Account Password
-* Create User
-* Update User
-* Delete User
+<figure><img src="../../README.md/.gitbook/assets/image (4).png" alt=""><figcaption><p>Manage Page Screen</p></figcaption></figure>
 
-2. Manage Role:
+6. Permission
 
-* Display Role
-* Create Role
-* Update Role
-* Delete Role
+<figure><img src="../../README.md/.gitbook/assets/image (6).png" alt=""><figcaption><p>Manage Permission Screen</p></figcaption></figure>
 
-2. Manage UserType:
+7. User
 
-* Display UserType
-* Create UserType
-* Update UserType
-* Delete UserType
+<figure><img src="../../README.md/.gitbook/assets/image (7).png" alt=""><figcaption><p>Manage User Screen</p></figcaption></figure>
 
-2. Special and Others
+List Section:
+
+* [Menu Section](broken-reference)
+* [Page Section](broken-reference)
+* [User Section](broken-reference)
+* [Role Section](broken-reference)
+* [User Type Section](broken-reference)
