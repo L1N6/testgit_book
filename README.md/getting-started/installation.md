@@ -19,6 +19,20 @@ cd admin-page-builder
 npm install
 ```
 
+* For FE
+
+```powershell
+nvm install 18.17.0
+```
+
+```powershell
+nvm use  18.17.0
+```
+
+```powershell
+npm run dev
+```
+
 3. **Configure Database**:
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-12 083908.png" alt=""><figcaption></figcaption></figure>
