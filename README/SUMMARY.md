@@ -17,7 +17,9 @@
 
 ## Feature and Usage
 
-* [Overview](feature-and-usage/overview.md)
+* [Authentication](feature-and-usage/authentication.md)
+* [Profile](feature-and-usage/profile.md)
+* [Generate JWT Token](feature-and-usage/generate-jwt-token.md)
 
 ## Menu Section
 
@@ -38,19 +40,42 @@
 
 ## User Section
 
-* [Page 2](user-section/page-2.md)
+* [Display Users](user-section/display-users.md)
+* [Create User](user-section/create-user.md)
+* [Update User](user-section/update-user.md)
+* [Change Password](user-section/change-password.md)
+* [Display Account List of User](user-section/display-account-list-of-user.md)
 
 ## Api Section
 
-* [Page 1](api-section/page-1.md)
+* [Display APIS](api-section/display-apis.md)
+* [Create API](api-section/create-api.md)
+* [Update API](api-section/update-api.md)
+* [Delete API](api-section/delete-api.md)
 
-## Role Section
+## Roles Section
 
-* [Page 3](role-section/page-3.md)
+* [Display Roles](roles-section/display-roles.md)
+* [Create Role](roles-section/create-role.md)
+* [Update Role](roles-section/update-role.md)
 
 ## User Type Section
 
-* [Page 4](user-type-section/page-4.md)
+* [Display UserTypes](user-type-section/display-usertypes.md)
+* [Create UserType](user-type-section/create-usertype.md)
+* [Update UserType](user-type-section/update-usertype.md)
+
+## Configuration SECTION
+
+* [Display Configuration](configuration-section/display-configuration.md)
+* [Create Configuration](configuration-section/create-configuration.md)
+* [Update Configuration](configuration-section/update-configuration.md)
+
+## Token Section
+
+* [Display Basic Token](token-section/display-basic-token.md)
+* [Create Basic Token](token-section/create-basic-token.md)
+* [Delete basic token](token-section/delete-basic-token.md)
 
 ## Frequently Asked Questions (FAQ)
 

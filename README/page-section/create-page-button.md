@@ -29,9 +29,9 @@ description: Step by step to create Page Button
 * <mark style="color:blue;">**Dữ liệu ẩn (**</mark><mark style="color:orange;">**"Hidden condition"**</mark><mark style="color:blue;">**):**</mark> A field to define conditions under which the button is hidden. Example: <mark style="color:orange;">**{"hideExpression":\[{"this.openUrl":{"=":""\}},{"this.openUrl":{"=":null\}}]}**</mark>
 *   <mark style="color:blue;">**Kích hoạt (**</mark><mark style="color:orange;">**"After click"**</mark><mark style="color:blue;">**):**</mark> A field to specify what happens after the button is clicked. Options can include calling an API, redirecting the view, showing a pop-up, etc. Each type of acting will have some related fields. Ex: When u want to call a function after clicking, you choose calling function and select the function (that function is the api of your page) .
 
-    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>After select "Gọi hàm"</strong></mark></p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>After select "Gọi hàm"</strong></mark></p></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>After select "Chuyển hướng"</strong></mark></p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>After select "Chuyển hướng"</strong></mark></p></figcaption></figure>
 
     <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>After select "Báo cáo"</strong></mark></p></figcaption></figure>
 
@@ -45,6 +45,6 @@ description: Step by step to create Page Button
 * <mark style="color:blue;">**Nhúng dữ liệu URL (**</mark><mark style="color:orange;">**"URL embedding"**</mark><mark style="color:blue;">**):**</mark> A field to specify if URL embedding is needed.
 *   <mark style="color:blue;">**Kiểu nút (**</mark><mark style="color:orange;">**"Button Type"**</mark><mark style="color:blue;">**):**</mark> A dropdown menu to select the type of button (e.g., submit, reset).
 
-    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>List "Kiểu nút"</strong></mark></p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>List "Kiểu nút"</strong></mark></p></figcaption></figure>
 * <mark style="color:blue;">**Show on top:**</mark> This data field is related to some more difficult operations, see more in  [<mark style="color:yellow;">Button Operations</mark>](others.md).
 * <mark style="color:blue;">**Show on form only:**</mark> This data field is related to some more difficult operations, see more in  [<mark style="color:yellow;">Button Operations</mark>](others.md).

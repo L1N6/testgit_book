@@ -1,4 +1,4 @@
-# Delete Menu
+# Delete API
 
 Step 1: Click on “Xóa” on any row that you want to delete, choose “OK” on the popup, and DONE!
 

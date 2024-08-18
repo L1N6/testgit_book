@@ -1,6 +1,7 @@
-# Create Menu
+# Create API
 
-**Step 1:** Click on the “Tạo mới ” button and a popup is displayed like below.
+**Step 1:** On the “Người dùng” page, click on the “Tạo mới” and a popup will be displayed.\
+
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFKtyRWEHkvAz0nni4orYO8N4XjIX729gaxyy6JTek8IzF_YZWsmp4QfgUsj2DSxjGnmSkCpGIcsmu7QJe_AOUfqmO79t6qZ7T6aAJHh9xF2BiF7K-yxKrLSZvPLeVHfExXenVE6sQ9wYnpl-C_BPoYyKHI1Uwr7FeKSzM2Q?key=UzZIS7gYdVnQcXeG4-ykVw" alt=""><figcaption></figcaption></figure>
 
@@ -20,4 +21,6 @@
 * <mark style="color:blue;">**Icon:**</mark> You can go[ Font-Awesome](https://fontawesome.com/) to get an icon and copy its class name.
 * <mark style="color:blue;">**Phân quyền:**</mark> You can define what userType can see that menu.
 
-Step 3: Click “Tạo mới menu” button.
+**Step 3:** Click “Tạo mới menu” button.
+
+\
