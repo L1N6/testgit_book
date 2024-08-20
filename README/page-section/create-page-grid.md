@@ -47,4 +47,4 @@ description: Step by step to create Page Grid
     <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Disable Filter</strong></mark></p></figcaption></figure>
 
     <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><mark style="color:yellow;"><strong>Enable Filter</strong></mark></p></figcaption></figure>
-* <mark style="color:blue;">**Nút bấm thay thế (**</mark><mark style="color:orange;">**"Replacement button"**</mark><mark style="color:blue;">**):**</mark> This data field is related to some more difficult operations, see more in  [<mark style="color:yellow;">Button Operations</mark>](others.md).
+* <mark style="color:blue;">**Nút bấm thay thế (**</mark><mark style="color:orange;">**"Replacement button"**</mark><mark style="color:blue;">**):**</mark> This data field is related to some more difficult operations, see more in  [<mark style="color:yellow;">Button Operations</mark>](../references/others.md).

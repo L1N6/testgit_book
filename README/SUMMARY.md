@@ -36,7 +36,6 @@
 * [Create Page Button](page-section/create-page-button.md)
 * [Create Page Api](page-section/create-page-api.md)
 * [Create Page Grid](page-section/create-page-grid.md)
-* [Others](page-section/others.md)
 
 ## User Section
 
@@ -76,6 +75,11 @@
 * [Display Basic Token](token-section/display-basic-token.md)
 * [Create Basic Token](token-section/create-basic-token.md)
 * [Delete basic token](token-section/delete-basic-token.md)
+
+## References
+
+* [Page 1](references/page-1.md)
+* [Others](references/others.md)
 
 ## Frequently Asked Questions (FAQ)
 
