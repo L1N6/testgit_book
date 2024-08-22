@@ -7,11 +7,12 @@ description: 'To get started, follow these steps to install the necessary compon
 1. **Clone the Repository**:
 
 ```powershell
-git clone https://github.com/your-repo/admin-page-builder.git
-cd admin-page-builder
+git clone https://github.com/vuvu15202/PGEA.git
 ```
 
 2. **Install Dependencies**:
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXduCPUDA_r-ePq9JtRmbEaIjDwnDpLcB0BJZfhFGPc8KPXUjS08FSAVSVOyqGB7H300m-tWdvRdBVq54j1IQ7DHd2oMu74V67hZGZnExyYY-Rp4NPF5XY3pKxhU3YHfbiX3C38IW62d1OiJ8AM-5QMTeTarWLR0od67GX1Nww?key=CZ89Z8QbD4X9YTRzADcgIQ" alt=""><figcaption></figcaption></figure>
 
 * For both BE and FE
 
@@ -29,11 +30,13 @@ nvm install 18.17.0
 nvm use  18.17.0
 ```
 
-```powershell
-npm run dev
+* For BE
+
+```
+npm install sails -g
 ```
 
-3. **Configure Database**:
+3. **Configure BE Database**:
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-12 083908.png" alt=""><figcaption></figcaption></figure>
 
@@ -99,11 +102,10 @@ attributes: {
   },
 ````
 
-4. **Start the Application**:
+**Start the Application**:
 
-```powershell
-sails lift
-```
+<pre class="language-powershell"><code class="lang-powershell"><strong>sails lift
+</strong></code></pre>
 
 or
 
@@ -112,3 +114,28 @@ sails lift --drop
 ```
 
 You can learn Sails.js CLI on [here](https://sailsjs.com/documentation/reference/command-line-interface).
+
+4. **Configure FE to call BE Path:**&#x20;
+
+<figure><img src="../../README/.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+**Start the Application**:
+
+<pre><code><strong>npm run dev
+</strong></code></pre>
+
+You can learn Next.js CLI on [here](https://nextjs.org/docs/pages/api-reference/next-cli).
+
+5. Database Installation
+
+**Step 1:** See how to install it [here](https://www.youtube.com/watch?v=u96rVINbAUI).
+
+**Step 2:** Run that script one by one to set up native password:
+
+1. Alter USER 'root'@'localhost' IDENTIFIED WITH mysql\_native\_password BY 'your\_password';
+2. GRANT ALL PRIVILEGES ON \*.\* TO 'root'@'localhost' WITH GRANT OPTION;
+3. FLUSH PRIVILEGES;
+
+
+
+\

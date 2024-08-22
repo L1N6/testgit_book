@@ -73,18 +73,11 @@
 
 The system will remove your session and redirect you to the login page.
 
-6. Permission
-
-<figure><img src="../../README.md/.gitbook/assets/image (6).png" alt=""><figcaption><p>Manage Permission Screen</p></figcaption></figure>
-
-7. User
-
-<figure><img src="../../README.md/.gitbook/assets/image (7).png" alt=""><figcaption><p>Manage User Screen</p></figcaption></figure>
-
 List Section:
 
 * [Menu Section](broken-reference)
 * [Page Section](broken-reference)
+* [API Section](broken-reference)
 * [User Section](broken-reference)
 * [Role Section](broken-reference)
 * [User Type Section](broken-reference)

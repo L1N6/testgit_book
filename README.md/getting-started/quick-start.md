@@ -1,15 +1,20 @@
 # Quick Start
 
-Once the application is running, you can start building admin pages by accessing the built-in templates and components:
+1. FE run project syntax:
 
-1. **Access the Admin Page Builder Interface**:&#x20;
+```
+npm run dev
+```
 
-Open your browser and go to `http://localhost:3000`.
+2. BE run project syntax:
 
-2. Testing path on [Post Man](https://quickstarts.postman.com/):`http://localhost:1337/api/your_folder/your_api`
+<pre class="language-powershell"><code class="lang-powershell"><strong>sails lift
+</strong></code></pre>
 
-Click [here](https://quickstarts.postman.com/) if you need tutortial.
+or
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>App image</p></figcaption></figure>
+```powershell
+sails lift --drop
+```
 
-Note: <mark style="color:yellow;">**Don't forget token to access api.**</mark>
+You can learn Sails.js CLI on [here](https://sailsjs.com/documentation/reference/command-line-interface).

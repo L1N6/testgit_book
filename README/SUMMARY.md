@@ -31,11 +31,13 @@
 ## Page Section
 
 * [Display Page](page-section/display-page.md)
-* [Create Page](page-section/create-page.md)
-* [Create Page Form](page-section/create-page-form.md)
-* [Create Page Button](page-section/create-page-button.md)
-* [Create Page Api](page-section/create-page-api.md)
-* [Create Page Grid](page-section/create-page-grid.md)
+* [Create Page’s Basic Definition](page-section/create-pages-basic-definition.md)
+* [Update Page’s Basic Definition](page-section/update-pages-basic-definition.md)
+* [Update Page’s Form Definition](page-section/update-pages-form-definition.md)
+* [Update Page’s Button Definition](page-section/update-pages-button-definition.md)
+* [Update Page’s API Definition](page-section/update-pages-api-definition.md)
+* [Update Page’s Grid Definition](page-section/update-pages-grid-definition.md)
+* [Delete Page](page-section/delete-page.md)
 
 ## User Section
 
@@ -78,8 +80,11 @@
 
 ## References
 
-* [Page 1](references/page-1.md)
-* [Others](references/others.md)
+* [Expression](references/expression.md)
+* [Activate button](references/activate-button.md)
+* [Button Operation](references/button-operation.md)
+* [Form’s widget demo](references/forms-widget-demo/README.md)
+  * [Page 1](references/forms-widget-demo/page-1.md)
 
 ## Frequently Asked Questions (FAQ)
 

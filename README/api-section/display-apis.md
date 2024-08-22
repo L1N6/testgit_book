@@ -14,7 +14,7 @@ Step 2: Click on the header of each field’s name to sort by ascending or desce
 
 Step 3: Fill in the filter input to find the matching records.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">**Columns:**</mark> The column that you want to search.
 * <mark style="color:blue;">**Operator:**</mark> contains, equal, start with, end with, etc.
