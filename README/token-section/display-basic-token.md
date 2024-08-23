@@ -6,7 +6,7 @@
 
 The “Tạo token người dùng” Page is rendered, like this:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** Click on the header of each field’s name to sort by ascending or descending.\
 

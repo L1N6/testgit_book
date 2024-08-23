@@ -55,7 +55,7 @@ Step 1: On the “Sửa thông tin trang” Page, click a tab named "API" on the
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9S_WZx4hASCe48WH3b8AjP1ysC1L33ZDoL9gXJd015hoNh5PQsCrNV2fRKfWo0g9H4icJN5fGFUXv3eYw-iI0c7WhQzgXgJwe8iZy1MjKt6VeWxFj_czXiglhVBm4qExjMRtRwgdUld4DT1wQBN96ps3lT8gKyeggXwlwkdkke4Y1XNMFhcc?key=CZ89Z8QbD4X9YTRzADcgIQ" alt=""><figcaption><p>Customize data when sending forms or fetching API</p></figcaption></figure>
 
-<mark style="color:blue;">**Query:**</mark> Additional query variable, Ex: \&abc=cd\&ef=gh
+<mark style="color:blue;">**Query:**</mark> Additional query variable, Ex: <mark style="color:orange;">**\&abc=cd\&ef=gh**</mark>
 
 <mark style="color:blue;">**Bool Expression:**</mark> Expression to calculate API access based on user information and uploaded data.
 

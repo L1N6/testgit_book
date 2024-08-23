@@ -13,8 +13,8 @@
 
 **Step 2:** Fill in the basic information field.
 
-* Tên trang(\*): Page's display name.
-* Mô tả : Page's description.
+* <mark style="color:blue;">T</mark><mark style="color:blue;">**ên trang(\*):**</mark> Page's display name.
+* <mark style="color:blue;">**Mô tả :**</mark> Page's description.
 
 Hàm tải dữ liệu: Specified API that you already created to get data when you access the page. How to create API? Reference [here](update-pages-api-definition.md).
 

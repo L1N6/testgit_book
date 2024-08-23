@@ -33,14 +33,14 @@ Step 2: Click a tab named "Form" on the tab bar.
 
 <mark style="color:blue;">**Điều kiện bắt buộc ("Required Expression"):**</mark> If the condition defined in this field is met, this field will prompt the user to fill in data.&#x20;
 
-* Example: {"this.orderNumber":{"=":1\}}
+* Example: <mark style="color:orange;">**{"this.orderNumber":{"=":1\}}**</mark>
 * To see more syntax: Click [here](../references/expression.md).
 
 <mark style="color:blue;">**Vô hiệu hoá ("Disable"):**</mark> Cannot fill data if setting is true
 
 <mark style="color:blue;">**Điều kện vô hiệu hoá ("Disable condition"):**</mark> If the condition defined in this field is met, this field will be inactivated.&#x20;
 
-* Example:  {"this.orderNumber":{"!=":1\}}
+* Example:  <mark style="color:orange;">**{"this.orderNumber":{"!=":1\}}**</mark>
 * To see more syntax: Click [here](../references/expression.md).
 
 <mark style="color:blue;">**Kiểu dữ liệu("Data type"):**</mark> A dropdown menu to select the type of data for the field (e.g., text, number, boolean, etc.).
@@ -59,13 +59,13 @@ Step 2: Click a tab named "Form" on the tab bar.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc04c6Sem_pExBvLb3R_8vyeae-jX2N7bm1LE-EjsIC8g3-PZLSwAA3RJAgkj_gfuBAwKGhICaIj7La_FYfGUDDxN8uOOZzvPV7JHTMoz6zoNc_NRZtIYT6HNT4R3lrQ7yeTV4C962nqYFfp2-7UWpLy6BEM0SmL5y8zrdQc8AhDs8GpFgHXQ?key=CZ89Z8QbD4X9YTRzADcgIQ" alt=""><figcaption><p>After using Array input</p></figcaption></figure>
 
-<mark style="color:blue;">**REGEX ("REGEX FLAG"):**</mark> Regex is a pattern (or filter) that describes a set of strings that matches the pattern. Example: "^a-zA-Z0-9+\[a-zA-Z0-9]$"
+<mark style="color:blue;">**REGEX ("REGEX FLAG"):**</mark> Regex is a pattern (or filter) that describes a set of strings that matches the pattern. Example: <mark style="color:orange;">**"^a-zA-Z0-9+\[a-zA-Z0-9]$"**</mark>
 
 <mark style="color:blue;">**Lỗi Regex Test Fail ("Error On Regex Fail"):**</mark> The message you want to show when you enter the wrong format of Regex.
 
 <mark style="color:blue;">**Điều Kiện Ẩn ("Hidden conditions"):**</mark> If the condition specified in this field is met, this field will be hidden.&#x20;
 
-* Example:  {"this.orderNumber":{">":1\}}
+* Example:  <mark style="color:orange;">**{"this.orderNumber":{">":1\}}**</mark>
 * To see more syntax: Click [here](../references/expression.md).
 
 <mark style="color:blue;">**Mặc Định ("Default value"):**</mark> A field to set a default value if you input nothing and then sending to the backend. It could be "0" when your data type is number or empty with string type. You need to choose the "Kiểu dữ liệu" and input the match value with "Kiểu dữ liệu".
@@ -73,4 +73,4 @@ Step 2: Click a tab named "Form" on the tab bar.
 **Step 3:** Click “Lưu thông tin” button.
 
 **Step 4:** Access that page’s form using that path URL format: \
-form/?page=idOfPage\&mode=thatModeInButtonTab
+<mark style="color:orange;">**form/?page=**</mark><mark style="color:blue;">**idOfPage**</mark><mark style="color:orange;">**\&mode=**</mark><mark style="color:blue;">**thatModeInButtonTab**</mark>

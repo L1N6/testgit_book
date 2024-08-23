@@ -22,11 +22,9 @@ The “Token generator” Page is rendered, like this:
 * <mark style="color:blue;">**Thông tin thêm:**</mark> a Payload is encoded in token, when decode will get payload data.
 * <mark style="color:blue;">**Captcha:**</mark> Check to verify that the identity is human.
 
-**Step 3:** Click on the “Tạo Token” button. You will receive token like this:
-
-\
+**Step 3:** Click on the “Tạo Token” button. You will receive token like this:\
 
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdZhVU41AohYb4njGtFT0RUSk5Ngfljs-c_H3pQfvo4aGebcV9AI5ryW60fx_2YxirV1USrZIy7vaWSDOVmzurNanolQmqvbqJeKoX-g9KrHKVWXcqk6fZRMSXXhRhAG8QQ8foi7MexDVTUyI31lBUgw32nU9ftqYrtkyKMig?key=UzZIS7gYdVnQcXeG4-ykVw" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Result After Generate JWT Token</p></figcaption></figure>
 
 **Step 4:** Provide it to your partner or save into the configuration management page.

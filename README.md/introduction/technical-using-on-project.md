@@ -1,20 +1,20 @@
 ---
-description: We use Javascript Technology Only
+description: We use Javascript Technology Only.
 ---
 
 # Technical Using On Project
 
-### Our Admin Page Builder is built entirely in JavaScript, using Sails.js for the backend and Next.js for the frontend. It supports both MySQL and MongoDB databases.
+Our Admin Page Builder is built entirely in JavaScript, using Sails.js for the backend and Next.js for the frontend. It supports both MySQL and MongoDB databases.
 
 <figure><img src="../../README/.gitbook/assets/httpswww.npmjs.compackagenext" alt="https://www.npmjs.com/package/next?activeTab=readme"><figcaption></figcaption></figure>
 
-[WEBSITE](https://nextjs.org/) and [DOCUMENTATION](https://nextjs.org/docs)
+Reference: [WEBSITE](https://nextjs.org/) and [DOCUMENTATION](https://nextjs.org/docs)
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Sails Js</p></figcaption></figure>
 
 [![NPM version](https://camo.githubusercontent.com/f8b34b3959453aead7eccee52c6465db7acdc3d4e309eaa360bffde9a33dedcf/68747470733a2f2f62616467652e667572792e696f2f6a732f7361696c732e737667)](http://badge.fury.io/js/sails)
 
-&#x20;[WEBSITE](https://sailsjs.com/) and [DOCUMENTATION](https://sailsjs.com/documentation/reference)
+Reference: [WEBSITE](https://sailsjs.com/) and [DOCUMENTATION](https://sailsjs.com/documentation/reference)
 
 Sails.js is a [web framework](http://sailsjs.com/whats-that) that makes it easy to build custom, enterprise-grade Node.js apps. It is designed to resemble the MVC architecture from frameworks like Ruby on Rails but with support for the more modern, data-oriented style of web app & API development. It's especially good for building realtime features like chat.
 

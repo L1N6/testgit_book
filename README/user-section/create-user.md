@@ -2,7 +2,7 @@
 
 **Step 1:** On the “Người dùng” page, click on the “Tạo mới” and a popup will be displayed.
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0GFyTw02qDe6cL0Qv5NXM3qbxFVSiRtB1BkpGk7myh1-4oVzxrydD6CZfe8s8xnpiXfrjnIL_fP8Gq_PW5S5DpsyOitYQeWt-pk6BGhRZb8Syiz0rf2UNfiFjRj632KRCf8EZUdQR7yckH5Qr7QacTaZtdozCbyyG1dqsmg?key=UzZIS7gYdVnQcXeG4-ykVw" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeoSGG1qRdd0bsEBGmU1ePq9OFLZk48ivLYZQo1CcyA6qMGMhsrKVmHFysf_L1zj9PSVgB4Ks5hIyIaDWRdOhSCkaz1RM8v38kWRO1hjkq1alSPAAdDwdOdEfATNFzJPnX8kYo8xb9Sa7Q2TUva0gfS4BhnvXHEPkal3yfO?key=SHneWa61M1ec4tMp41OIHQ" alt=""><figcaption><p>Create User Pop-up Form</p></figcaption></figure>
 
 **Step 2:** Fill in the form&#x20;
 

@@ -117,7 +117,7 @@ You can learn Sails.js CLI on [here](https://sailsjs.com/documentation/reference
 
 4. **Configure FE to call BE Path:**&#x20;
 
-<figure><img src="../../README/.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../README/.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Start the Application**:
 

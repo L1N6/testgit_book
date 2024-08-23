@@ -4,9 +4,7 @@
 
 **Step 1:** Access the URL “http://localhost:5000/”&#x20;
 
-**Step 2:** Fill in the form to log into the system
-
-\
+**Step 2:** Fill in the form to log into the system\
 
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdh63xke6Zc-yj0R4qh-bhS41sDjL8O2i88ahrkCF8-X0b1RUvX-ZEdcbvengH68AeVtjj9GEoqyJ9CcvWP5FYG_VE3Ku-Wjzg71G3QUGdcQI4S2kI8h5xwPBPf7WI59HTLzpWASXRRZIwiCtCjwFcJsFzWP05V37UIYqQuig?key=UzZIS7gYdVnQcXeG4-ykVw" alt=""><figcaption><p><mark style="color:blue;"><strong>Login Sceen</strong></mark></p></figcaption></figure>
@@ -41,9 +39,7 @@
 
 **Step 1:** Access the Login page of the website.
 
-**Step 2:** Click on the “Forgot password?” button. The system redirects to the “Quên mật khẩu” page.
-
-\
+**Step 2:** Click on the “Forgot password?” button. The system redirects to the “Quên mật khẩu” page.\
 
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfcxrP109ylSZ2fSakdJOY5NdxrdmEcDTBMI8GJ9QzLriYAspiGG6zbXuhVwZDZTIDHUluMqkOMdR8G700AejwgsBHvGBmgVb6xhFIo2mrHyd_aIMpvi1aaneJqU9f6zH3M9o2Q9WVpTUhLHlLP71ZX7I4SwMnlLqtPG-7B8g?key=UzZIS7gYdVnQcXeG4-ykVw" alt=""><figcaption><p>Forgot Password</p></figcaption></figure>
@@ -55,17 +51,7 @@
 
 **Step 4:** Click on the “Yêu cầu cấp lại mật khẩu” button. If your account exists, you will receive an email to activate your account. If not, you will receive an error message.
 
-3. Login using Google Account&#x20;
-
-**Step 1:** Access the Login page of the website.
-
-**Step 2:** Click on the “Forgot password?” button. The system redirects to the “Quên mật khẩu” page.
-
-
-
-<figure><img src="../../README.md/.gitbook/assets/image (3).png" alt=""><figcaption><p>Manage Menu Screen</p></figcaption></figure>
-
-5. Logout
+4. Logout
 
 **Step 1:** Click on the “Thông tin người dùng” button on the right corner.
 
