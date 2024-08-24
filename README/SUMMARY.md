@@ -3,17 +3,12 @@
 ## Introduction
 
 * [🌟 Overview](README.md)
-* [Purpose of the Guide](../README.md/introduction/purpose-of-the-guide.md)
 * [Technical Using On Project](../README.md/introduction/technical-using-on-project.md)
 
 ## Getting Started
 
 * [Installation](../README.md/getting-started/installation.md)
 * [Quick Start](../README.md/getting-started/quick-start.md)
-
-## Core Concepts
-
-* [Architecture Overview](../README.md/core-concepts/architecture-overview.md)
 
 ## Feature and Usage
 
