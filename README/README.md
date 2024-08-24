@@ -1,8 +1,11 @@
-# Overview
+---
+description: >-
+  Welcome to the ✨ Page Generator Engine for Administration Website user guide!
+  This guide is your complete resource for understanding, installing, and
+  utilizing both the frontend and backend components
+---
 
-## 🌟 Overview
-
-Welcome to the **✨ Page Generator Engine for Administration Website** user guide! This guide is your complete resource for understanding, installing, and utilizing both the frontend and backend components of our powerful open-source project. Whether you're a seasoned developer or just starting, this guide will help you harness the full potential of the Page Generator Engine.
+# 🌟 Overview
 
 ### 🚀 What is the Page Generator Engine?
 
