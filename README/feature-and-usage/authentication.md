@@ -15,9 +15,6 @@
 
 **Step 3:** Click on the “Login” button. If successful, redirect to the dashboard, if not, stay and receive an error message.
 
-\
-
-
 2. **Register**
 
 **Step 1:** Access the Login page of the website.
@@ -58,12 +55,3 @@
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdDJpuURfHwsS6y0lffttzYxpLpxHr_uK5KJJ3klRkuBlE1KaVgOFY8NAR7-nfBBotrKejCWKHJ1LbV-Jemb7Gkh2GHdXkWgOc36AvwabZ1AS_92cvyEEp8b9JfcOyZHmzAhvYyo92SsjyNDreDLunajX253n_c0iTHS5RTFg?key=UzZIS7gYdVnQcXeG4-ykVw" alt=""><figcaption></figcaption></figure>
 
 The system will remove your session and redirect you to the login page.
-
-List Section:
-
-* [Menu Section](broken-reference)
-* [Page Section](broken-reference)
-* [API Section](broken-reference)
-* [User Section](broken-reference)
-* [Role Section](broken-reference)
-* [User Type Section](broken-reference)
