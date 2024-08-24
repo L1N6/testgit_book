@@ -53,11 +53,7 @@ Step 2: Click a tab named "Form" on the tab bar.
 
 <mark style="color:blue;">**Array input:**</mark> If you want to input and send to the server an array, see the following guide.
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdG5Ahf1oW6ZlAsQO3ZMQ4RUVTWMIS2HhBoQc0p9Vb_HkHR21AtnK30JLmSlvDB2ZLfZt2Hhq2I4NjP-7ftwc-0h20-WQFiPvbhQHF2a8gwZA8dD6wRkAzXYxK51AWmcrGzXJXiY73SJqXEI1O8IIcsmvGOrn2YTiOMOK4W-jlIFcNz7lXKhW8?key=CZ89Z8QbD4X9YTRzADcgIQ" alt=""><figcaption><p>Before using Array input</p></figcaption></figure>
-
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfY4yIYKjg8wK34RABevE4yR14BKWSe752TMglN-hoX_NVgLUW810tFD122x549XTQXtcGlM6nG4Zh2PJ4nU64S2tgiBRMLp28g_OfxKy_0vqQGdO3UrFbjAaCNetv8KXuDbImxx-BEw6rawE0HuDfiPswtHhBk_zl01wxCVu4uMX74XfNcpA?key=CZ89Z8QbD4X9YTRzADcgIQ" alt=""><figcaption><p>Perform</p></figcaption></figure>
-
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc04c6Sem_pExBvLb3R_8vyeae-jX2N7bm1LE-EjsIC8g3-PZLSwAA3RJAgkj_gfuBAwKGhICaIj7La_FYfGUDDxN8uOOZzvPV7JHTMoz6zoNc_NRZtIYT6HNT4R3lrQ7yeTV4C962nqYFfp2-7UWpLy6BEM0SmL5y8zrdQc8AhDs8GpFgHXQ?key=CZ89Z8QbD4X9YTRzADcgIQ" alt=""><figcaption><p>After using Array input</p></figcaption></figure>
+Thiếu ảnh
 
 <mark style="color:blue;">**REGEX ("REGEX FLAG"):**</mark> Regex is a pattern (or filter) that describes a set of strings that matches the pattern. Example: <mark style="color:orange;">**"^a-zA-Z0-9+\[a-zA-Z0-9]$"**</mark>
 

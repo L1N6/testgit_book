@@ -84,7 +84,10 @@
 * [Activate button](references/activate-button.md)
 * [Button Operation](references/button-operation.md)
 * [Form’s widget demo](references/forms-widget-demo/README.md)
-  * [Page 1](references/forms-widget-demo/page-1.md)
+  * [String data type](references/forms-widget-demo/string-data-type.md)
+  * [Boolean data type](references/forms-widget-demo/boolean-data-type.md)
+  * [Number data type](references/forms-widget-demo/number-data-type.md)
+  * [Json data type](references/forms-widget-demo/json-data-type.md)
 
 ## Frequently Asked Questions (FAQ)
 
