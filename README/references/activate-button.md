@@ -22,8 +22,6 @@
 
 ```
 
-**Solution 2:** select “url”
-
 <mark style="color:blue;">**"$"**</mark>** notation:** get id of the current record in the row.
 
 **Solution 3:** Select “form popup”
